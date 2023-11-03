@@ -69,6 +69,9 @@
 /ads/
 /telemetry/
 /tracking/
+/information/
+#advertising
+/advertising/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
 /^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.co/
@@ -102,6 +105,9 @@
 ^mads\.
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]
+/^information
+/^information#advertising
+/^advertising
 ||*.afcdn.net^$important
 ||*.brazzersnetwork.com^$important
 ||*.downloadisnow.com^$important
@@ -112,8 +118,6 @@
 ||*.gvt.com^$important
 ||*.gvt2.com^$important
 ||*.gvt3.com^$important
-||*.gvt4.com^$important
-||*.gvt5.com^$important
 ||*.hbloveinfo.com^$important
 ||*.hwcdn.net^$important
 ||*.intalnirierotice.net^$important
@@ -183,9 +187,7 @@
 ||notifications-pa.googleapis.com^$important
 ||notify.bugsnag.com^
 ||partnerads.ysm.yahoo.com^
-||primis.tech/?utm_source=blitz.gg&utm_medium=classic&utm_campaign=logo
 ||primis.tech^$important
-||pro?utm_source=blitz&utm_medium=ad&utm_campaign=blitz_ad_3^
 ||ro-odc.samsungapps.com^$important
 ||searchnotifications-pa.googleapis.com^$important
 ||seed.siri.apple.com^$important
@@ -199,3 +201,8 @@
 ||wikipedia.org^$important
 ||www.interactivebrokers.hu^$important
 ||yahoo.com^$important
+||dpm.demdex.net^$important
+||promocenter-360.com^$important
+||*.2mdn.net^$important
+||*.fastly.net^$important
+||*tooaastandhei.info^$important
