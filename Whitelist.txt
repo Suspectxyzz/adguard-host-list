@@ -119,3 +119,11 @@
 @@||ipinfo.io^$important
 @@||ip-api.com^$important
 @@||dnschecker.org^$important
+@@||www.olx.ro^$important
+@@||jobs-api.olx.ro^$important
+@@||www.twitch.tv^$important
+@@||cvp.twitch.tv^$important
+@@||video.twimg.com^$important
+@@||challenges.cloudflare.com^$important
+@@||proxyium.com^$important
+@@||www.proxysite.com^$important
