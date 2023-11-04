@@ -180,7 +180,7 @@
 ||firebaseremoteconfig.googleapis.com^$important
 ||gemini.yahoo.com^
 ||gos-api.gos-gsp.io^$important
-||i.scdn.co^$important
+||gos-gsp.io^$important
 ||linkedin.com^$important
 ||log.fc.yahoo.com^
 ||metrika.yandex.ru^
@@ -204,5 +204,4 @@
 ||dpm.demdex.net^$important
 ||promocenter-360.com^$important
 ||*.2mdn.net^$important
-||*.fastly.net^$important
 ||*tooaastandhei.info^$important
