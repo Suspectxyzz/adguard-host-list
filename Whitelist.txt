@@ -37,7 +37,6 @@ googleads.g.doubleclick.net
 graph.facebook.com
 graph.instagram.com
 hgame-cdn.lilithgame.com
-https://app-measurement.com/sdk-exp
 hu-bud-anx-r001.router.teamviewer.com
 hu-bud-anx-r002.router.teamviewer.com
 hu-bud-anx-r003.router.teamviewer.com
