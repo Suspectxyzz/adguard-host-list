@@ -131,8 +131,10 @@ video.twimg.com
 vm.tiktok.com
 vod-secure.twitch.tv
 web.facebook.com
-www.facebook.com
-www.reddit.com
-www.redditstatic.com
-www.tiktok.com
+facebook.com
+reddit.com
+redditstatic.com
+tiktok.com
 youtubei.googleapis.com
+xp.apple.com
+gdmf.apple.com
