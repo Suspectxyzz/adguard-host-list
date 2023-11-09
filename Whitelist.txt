@@ -138,3 +138,8 @@ tiktok.com
 youtubei.googleapis.com
 xp.apple.com
 gdmf.apple.com
+olx.ro
+weather-analytics-events.apple.com
+ddragon.leagueoflegends.com
+remoteconfig.edenred.io
+sso.eu.edenred.io
