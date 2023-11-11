@@ -58,8 +58,6 @@ oss-eu-nor-05.oss-eu-central-1.aliyuncs.com
 pbs.twimg.com
 pl-waw-anx-r009.router.teamviewer.com
 pl-waw-anx-r011.teamviewer.com
-proxyium.com
-proxysite.com
 pub-cfg.secu100.net
 ro-buc-anx-r001.teamviewer.com
 ro-buc-anx-r002.router.teamviewer.com
@@ -111,7 +109,6 @@ tr-ist-anx-r006.router.teamviewer.com
 tr-ist-anx-r007.router.teamviewer.com
 tracker.gg
 trackercdn.com
-tracking.olx-st.com
 translate.googleapis.com
 twitch.tv
 twitter.com
