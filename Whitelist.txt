@@ -143,3 +143,4 @@ weather-analytics-events.apple.com
 ddragon.leagueoflegends.com
 remoteconfig.edenred.io
 sso.eu.edenred.io
+e673.dsce9.akamaiedge.net
