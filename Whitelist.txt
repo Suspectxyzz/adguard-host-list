@@ -66,6 +66,8 @@ ninja.data.olxcdn.com
 ntp.msn.com
 olx.ro
 www.olx.ro
+olx.ro
+m.olx.ro
 optimizationguide-pa.googleapis.com
 oss-eu-nor-05.oss-eu-central-1.aliyuncs.com
 pay.google.com
@@ -127,6 +129,7 @@ stream-production.avcdn.net
 t.co
 threads.com
 tiktok.com
+www.tiktok.com
 time.windows.com
 tr-ist-anx-r001.router.teamviewer.com
 tr-ist-anx-r002.router.teamviewer.com
