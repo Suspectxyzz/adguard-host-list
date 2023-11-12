@@ -19,6 +19,7 @@ btloader.com
 caps.xmcsrv.net
 categories.olxcdn.com
 cdn.cookielaw.org
+b.cdnst.net
 challenges.cloudflare.com
 checkip.dyndns.org
 client.wns.windows.com
