@@ -35,6 +35,7 @@ ddragon.leagueoflegends.com
 discord-attachments-uploads-prd.storage.googleapis.com
 dnschecker.org
 download.visualstudio.microsoft.com
+bans.lol/cringe
 download.windowsupdate.com
 e673.dsce9.akamaiedge.net
 edge-mqtt.facebook.com
