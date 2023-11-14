@@ -48,6 +48,7 @@ graph.facebook.com
 graph.instagram.com
 hgame-cdn.lilithgame.com
 history.google.com
+download.anydesk.com
 hu-bud-anx-r001.router.teamviewer.com
 hu-bud-anx-r002.router.teamviewer.com
 hu-bud-anx-r003.router.teamviewer.com
