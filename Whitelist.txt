@@ -177,6 +177,13 @@ weather-analytics-events.apple.com
 web.facebook.com
 www.tiktok.com
 xp.apple.com
+bag.itunes.apple.com^$important
+apps.mzstatic.com^$important
+configuration.apple.com^$important
+download.microsoft.com^$important
+surfshark.com^$important
+iosapps.itunes.apple.com^$important
+gs.apple.com^$important
 youtu.be
 youtube-dl.org
 youtube-nocookie.com
