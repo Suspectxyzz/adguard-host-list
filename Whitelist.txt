@@ -135,7 +135,11 @@ threads.com
 tiktok.com
 www.tiktok.com
 time.windows.com
-tr-ist-anx-r001.router.teamviewer.com
+s.mzstatic.com
+gateway.icloud.com
+search.itunes.apple.com
+sequoia.cdn-apple.com
+ist-anx-r001.router.teamviewer.com
 tr-ist-anx-r002.router.teamviewer.com
 tr-ist-anx-r004.router.teamviewer.com
 tr-ist-anx-r006.router.teamviewer.com
