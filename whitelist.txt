@@ -16,6 +16,7 @@ bg-sof-anx-r009.router.teamviewer.com
 bg-sof-anx-r010.router.teamviewer.com
 blizzard.com
 btloader.com
+trader.olxgroup.com
 tracking.olx-st.com
 categories.olxcdn.com
 cdn.cookielaw.org
