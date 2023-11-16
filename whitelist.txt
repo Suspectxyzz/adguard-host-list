@@ -16,7 +16,6 @@ bg-sof-anx-r009.router.teamviewer.com
 bg-sof-anx-r010.router.teamviewer.com
 blizzard.com
 btloader.com
-caps.xmcsrv.net
 categories.olxcdn.com
 cdn.cookielaw.org
 b.cdnst.net
