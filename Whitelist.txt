@@ -150,6 +150,8 @@ translate.google.com
 translate.googleapis.com
 twitch.tv
 twitter.com
+events.gfe.nvidia.com
+gfwsl.geforce.com
 ua-iev-anx-r002.router.teamviewer.com
 ua-iev-anx-r003.router.teamviewer.com
 ua-iev-anx-r004.router.teamviewer.com
