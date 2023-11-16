@@ -67,6 +67,7 @@ media.drive.google.com
 mqtt.c10r.facebook.com
 myactivity.google.com
 ninja.data.olxcdn.com
+time.apple.com
 ntp.msn.com
 olx.ro
 www.olx.ro
