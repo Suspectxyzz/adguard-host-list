@@ -4,6 +4,7 @@ android.clients.google.com
 production-graphql.eu-sharedservices.olxcdn.com
 api.techniknews.net
 api.tracker.network
+mesu.apple.com
 api.twitter.com
 api.weather.com
 app-global-2.lilithgame.com
