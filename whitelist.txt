@@ -163,6 +163,7 @@ trader.olxgroup.com
 translate.google.com
 translate.googleapis.com
 twitch.tv
+blizzard.com
 twitter.com
 ua-iev-anx-r002.router.teamviewer.com
 ua-iev-anx-r003.router.teamviewer.com
