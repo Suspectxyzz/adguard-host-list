@@ -83,6 +83,7 @@ newgrounds.com
 ninja.data.olxcdn.com
 ntp.msn.com
 olx.ro
+t.me
 optimizationguide-pa.googleapis.com
 oss-eu-nor-05.oss-eu-central-1.aliyuncs.com
 pay.google.com
