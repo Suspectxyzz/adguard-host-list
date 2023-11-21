@@ -41,6 +41,7 @@ cvp.twitch.tv
 ddragon.leagueoflegends.com
 discord-attachments-uploads-prd.storage.googleapis.com
 dnschecker.org
+www.twitch.tv
 download.anydesk.com
 download.microsoft.com^$important
 download.visualstudio.microsoft.com
