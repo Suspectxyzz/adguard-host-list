@@ -2,6 +2,7 @@ abs.twimg.com
 amp-api-edge.apps.apple.com
 android.clients.google.com
 production-graphql.eu-sharedservices.olxcdn.com
+gateway.fe.apple-dns.net
 api.techniknews.net
 api.tracker.network
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
