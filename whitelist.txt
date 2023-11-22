@@ -4,6 +4,7 @@ android.clients.google.com
 production-graphql.eu-sharedservices.olxcdn.com
 api.techniknews.net
 api.tracker.network
+apps-mzstatic-cdn.itunes-apple.com.akadns.net
 api.amiabila.com
 mesu.apple.com
 api.twitter.com
