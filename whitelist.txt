@@ -6,7 +6,7 @@ gateway.fe.apple-dns.net
 api.techniknews.net
 api.tracker.network
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
-promotion.xmeye.net
+firebaseinstallations.googleapis.com
 api.amiabila.com
 mesu.apple.com
 api.twitter.com
