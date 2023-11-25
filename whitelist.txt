@@ -16,6 +16,8 @@ app-measurement.com^
 app.lilithgame.com
 apps.mzstatic.com^$important
 b.cdnst.net
+i.imgur.com
+www.i.imgur.com
 bag.itunes.apple.com^$important
 bans.lol/cringe
 bg-sof-anx-r002.router.teamviewer.com
