@@ -17,6 +17,8 @@ app.lilithgame.com
 apps.mzstatic.com^$important
 b.cdnst.net
 i.imgur.com
+s.imgur.com
+www.s.imgur.com
 www.i.imgur.com
 bag.itunes.apple.com^$important
 bans.lol/cringe
