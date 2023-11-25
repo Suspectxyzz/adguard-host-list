@@ -7,7 +7,7 @@ api.techniknews.net
 api.tracker.network
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
 api.amiabila.com
-upgrade.secu100.net
+api-access.pangolin-sdk-toutiao-b.com
 mesu.apple.com
 api.twitter.com
 api.weather.com
