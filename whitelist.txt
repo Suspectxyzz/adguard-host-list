@@ -7,7 +7,7 @@ api.techniknews.net
 api.tracker.network
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
 api.amiabila.com
-dsc-node.jftechws.com
+upgrade.secu100.net
 mesu.apple.com
 api.twitter.com
 api.weather.com
