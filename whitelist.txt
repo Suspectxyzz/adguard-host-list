@@ -6,8 +6,8 @@ gateway.fe.apple-dns.net
 api.techniknews.net
 api.tracker.network
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
-api.amiabila.com
 promotion.xmeye.net
+api.amiabila.com
 mesu.apple.com
 api.twitter.com
 api.weather.com
