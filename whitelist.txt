@@ -17,6 +17,7 @@ app-measurement.com^
 app.lilithgame.com
 cdn.jsdelivr.net
 cdnjs.cloudflare.com
+shorturl.at
 apps.mzstatic.com
 b.cdnst.net
 i.imgur.com
