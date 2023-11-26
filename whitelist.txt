@@ -15,6 +15,7 @@ api.weather.com
 app-global-2.lilithgame.com
 app-measurement.com^
 app.lilithgame.com
+cdn.jsdelivr.net
 apps.mzstatic.com^$important
 b.cdnst.net
 i.imgur.com
