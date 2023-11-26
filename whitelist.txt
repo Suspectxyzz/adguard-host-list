@@ -13,6 +13,7 @@ mesu.apple.com
 api.twitter.com
 api.weather.com
 app-global-2.lilithgame.com
+unicreditcee.sc.omtrdc.net
 app-measurement.com^
 app.lilithgame.com
 cdn.jsdelivr.net
