@@ -10,6 +10,7 @@ api.amiabila.com
 mesu.apple.com
 api.twitter.com
 api.weather.com
+caps.xmcsrv.net
 app-global-2.lilithgame.com
 unicreditcee.sc.omtrdc.net
 app-measurement.com^
