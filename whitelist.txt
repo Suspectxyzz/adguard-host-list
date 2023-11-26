@@ -26,6 +26,7 @@ www.i.imgur.com
 bag.itunes.apple.com
 bans.lol/cringe
 widget.trustpilot.com
+static.cloudflareinsights.com
 bg-sof-anx-r002.router.teamviewer.com
 bg-sof-anx-r004.router.teamviewer.com
 bg-sof-anx-r005.router.teamviewer.com
