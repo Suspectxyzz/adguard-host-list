@@ -19,6 +19,7 @@ cdn.jsdelivr.net
 cdnjs.cloudflare.com
 shorturl.at
 apps.mzstatic.com
+frankfurt.apollo.olxcdn.com
 b.cdnst.net
 i.imgur.com
 s.imgur.com
