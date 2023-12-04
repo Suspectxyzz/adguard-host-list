@@ -9,6 +9,7 @@ apps-mzstatic-cdn.itunes-apple.com.akadns.net
 api.amiabila.com
 licensing.mp.microsoft.com
 mesu.apple.com
+gsp-ssl.ls.apple.com
 api.twitter.com
 api.weather.com
 caps.xmcsrv.net
