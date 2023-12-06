@@ -11,6 +11,8 @@ licensing.mp.microsoft.com
 mesu.apple.com
 gsp-ssl.ls.apple.com
 api.twitter.com
+api.twitch.tv
+gql.twitch.tv
 api.weather.com
 caps.xmcsrv.net
 app-global-2.lilithgame.com
