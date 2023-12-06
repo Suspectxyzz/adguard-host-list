@@ -7,6 +7,7 @@ api.techniknews.net
 api.tracker.network
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
 api.amiabila.com
+api2.amplitude.com
 licensing.mp.microsoft.com
 mesu.apple.com
 gsp-ssl.ls.apple.com
