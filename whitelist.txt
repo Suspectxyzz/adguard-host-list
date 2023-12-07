@@ -18,7 +18,6 @@ api.weather.com
 caps.xmcsrv.net
 app-global-2.lilithgame.com
 unicreditcee.sc.omtrdc.net
-app-measurement.com
 app.lilithgame.com
 cdn.jsdelivr.net
 cdnjs.cloudflare.com
