@@ -18,7 +18,7 @@ api.weather.com
 caps.xmcsrv.net
 app-global-2.lilithgame.com
 unicreditcee.sc.omtrdc.net
-app-measurement.com^
+app-measurement.com
 app.lilithgame.com
 cdn.jsdelivr.net
 cdnjs.cloudflare.com
@@ -57,7 +57,7 @@ clients1.google.com
 clientservices.googleapis.com
 code.visualstudio.com
 community.cloudflare.com
-configuration.apple.com^$important
+configuration.apple.com
 connect.facebook.net
 ctldl.windowsupdate.com
 cvp.twitch.tv
@@ -66,7 +66,7 @@ discord-attachments-uploads-prd.storage.googleapis.com
 dnschecker.org
 www.twitch.tv
 download.anydesk.com
-download.microsoft.com^$important
+download.microsoft.com
 download.visualstudio.microsoft.com
 download.windowsupdate.com
 e673.dsce9.akamaiedge.net
@@ -83,7 +83,7 @@ googleads.g.doubleclick.net
 graph.facebook.com
 graph.instagram.com
 gs-loc.apple.com
-gs.apple.com^$important
+gs.apple.com
 hgame-cdn.lilithgame.com
 history.google.com
 hu-bud-anx-r001.router.teamviewer.com
@@ -91,7 +91,7 @@ hu-bud-anx-r002.router.teamviewer.com
 hu-bud-anx-r003.router.teamviewer.com
 i.instagram.com
 international-gfe.download.nvidia.com
-iosapps.itunes.apple.com^$important
+iosapps.itunes.apple.com
 ip-api.com
 ipinfo.io
 ipinfo.io/ip
@@ -121,6 +121,7 @@ play.google.com
 pub-cfg.secu100.net
 reddit.com
 redditstatic.com
+static-assets-prod.unrealengine.com
 remoteconfig.edenred.io
 ro-buc-anx-r001.teamviewer.com
 ro-buc-anx-r002.router.teamviewer.com
@@ -173,7 +174,7 @@ steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com
 steamcommunity.com
 stream-production.avcdn.net
 su.itunes.apple.com
-surfshark.com^$important
+surfshark.com
 t.co
 threads.com
 tiktok.com
