@@ -44,6 +44,7 @@ bg-sof-anx-r010.router.teamviewer.com
 blizzard.com
 btloader.com
 bit.ly
+api.imgur.com
 categories.olxcdn.com
 mon.tiktokv.com
 mon-i18n.tiktokv.com
