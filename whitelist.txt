@@ -16,6 +16,7 @@ api.twitch.tv
 gql.twitch.tv
 gamedownloads-rockstargames-com.akamaized.net
 api.weather.com
+lcdn-locator.apple.com
 caps.xmcsrv.net
 app-global-2.lilithgame.com
 unicreditcee.sc.omtrdc.net
