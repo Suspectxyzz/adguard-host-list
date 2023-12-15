@@ -6,6 +6,7 @@ gateway.fe.apple-dns.net
 api.techniknews.net
 api.tracker.network
 downloads.raspberrypi.org
+downloads.raspberrypi.com
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
 api.amiabila.com
 api2.amplitude.com
