@@ -14,6 +14,7 @@ licensing.mp.microsoft.com
 mesu.apple.com
 gsp-ssl.ls.apple.com
 api.twitter.com
+worproject.com/downloads
 api.twitch.tv
 gql.twitch.tv
 gamedownloads-rockstargames-com.akamaized.net
