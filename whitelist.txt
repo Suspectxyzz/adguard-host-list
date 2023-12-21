@@ -8,7 +8,10 @@ api.tracker.network
 downloads.raspberrypi.org
 downloads.raspberrypi.com
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
+bag-cdn.itunes-apple.com.akadns.net
+api.smoot.apple.com
 api.amiabila.com
+gsp-ssl.ls-apple.com.akadns.net
 updates.cdn-apple.com
 api2.amplitude.com
 licensing.mp.microsoft.com
