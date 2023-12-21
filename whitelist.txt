@@ -9,12 +9,14 @@ downloads.raspberrypi.org
 downloads.raspberrypi.com
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
 api.amiabila.com
+updates.cdn-apple.com
 api2.amplitude.com
 licensing.mp.microsoft.com
 mesu.apple.com
 gsp-ssl.ls.apple.com
 api.twitter.com
-worproject.com/downloads
+mobro.unicreditbanking.eu
+worproject.com
 api.twitch.tv
 gql.twitch.tv
 gamedownloads-rockstargames-com.akamaized.net
