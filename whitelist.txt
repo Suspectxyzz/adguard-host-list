@@ -11,6 +11,7 @@ apps-mzstatic-cdn.itunes-apple.com.akadns.net
 bag-cdn.itunes-apple.com.akadns.net
 api.smoot.apple.com
 api.amiabila.com
+nslookup.io
 downloaddispatch.itunes.apple.com
 app-site-association.cdn-apple.com
 gsp-ssl.ls-apple.com.akadns.net
