@@ -67,6 +67,7 @@ cdn.cookielaw.org
 img-resizer.prd.01.eu-west-1.eu.olx.org
 cdn.slots.baxter.olx.org
 challenges.cloudflare.com
+clips.twitch.tv
 checkip.dyndns.org
 client.wns.windows.com
 clients1.google.com
