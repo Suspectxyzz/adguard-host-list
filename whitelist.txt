@@ -18,6 +18,7 @@ gsp-ssl.ls-apple.com.akadns.net
 updates.cdn-apple.com
 api2.amplitude.com
 licensing.mp.microsoft.com
+static-cdn.jtvnw.net
 mesu.apple.com
 gsp-ssl.ls.apple.com
 api.twitter.com
