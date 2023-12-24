@@ -60,6 +60,7 @@ blizzard.com
 btloader.com
 bit.ly
 api.imgur.com
+csgocasetracker.com
 categories.olxcdn.com
 mon.tiktokv.com
 mon-i18n.tiktokv.com
