@@ -4,6 +4,7 @@ android.clients.google.com
 production-graphql.eu-sharedservices.olxcdn.com
 gateway.fe.apple-dns.net
 api.techniknews.net
+cdn.fbsbx.com
 api.tracker.network
 downloads.raspberrypi.org
 downloads.raspberrypi.com
