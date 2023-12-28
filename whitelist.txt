@@ -13,6 +13,7 @@ downloads.raspberrypi.org
 downloads.raspberrypi.com
 apps-mzstatic-cdn.itunes-apple.com.akadns.net
 bag-cdn.itunes-apple.com.akadns.net
+app-measurement.com
 api.smoot.apple.com
 api.amiabila.com
 nslookup.io
