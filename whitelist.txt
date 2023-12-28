@@ -5,6 +5,8 @@ production-graphql.eu-sharedservices.olxcdn.com
 gateway.fe.apple-dns.net
 api.techniknews.net
 cdn.fbsbx.com
+cstat.cdn-apple.com
+inappcheck.itunes.apple.com
 api.tracker.network
 downloads.raspberrypi.org
 downloads.raspberrypi.com
