@@ -11,8 +11,6 @@ smp-device-content.apple.com
 api.tracker.network
 downloads.raspberrypi.org
 downloads.raspberrypi.com
-apps-mzstatic-cdn.itunes-apple.com.akadns.net
-bag-cdn.itunes-apple.com.akadns.net
 mzstorekit.itunes.apple.com
 api.smoot.apple.com
 api.amiabila.com
