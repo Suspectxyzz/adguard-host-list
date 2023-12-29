@@ -96,6 +96,8 @@ download.windowsupdate.com
 e673.dsce9.akamaiedge.net
 edge-mqtt.facebook.com
 events.gfe.nvidia.com
+www.aliexpress.com
+aliexpress.com
 facebook.com
 fe2cr.update.microsoft.com
 firebaselogging-pa.googleapis.com
