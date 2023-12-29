@@ -38,6 +38,7 @@ app-global-2.lilithgame.com
 unicreditcee.sc.omtrdc.net
 app.lilithgame.com
 gamedownloads.rockstargames.com
+visualstudio.microsoft.com
 cdn.jsdelivr.net
 cdnjs.cloudflare.com
 shorturl.at
