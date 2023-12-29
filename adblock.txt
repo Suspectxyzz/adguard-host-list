@@ -85,8 +85,8 @@
 ||udc.yahoo.com^
 ||vas.samsungapps.com^
 ||widgets.pinterest.com^
-||*interactivebrokers.hup^
-||*yahoo.com^
+||interactivebrokers.hup^
+||yahoo.com^
 ||dpm.demdex.net^
 ||promocenter-360.com^
 ||2mdn.net^
