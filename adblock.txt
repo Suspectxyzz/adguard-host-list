@@ -49,6 +49,7 @@
 ||advice-ads.s3.amazonaws.com^
 ||adx.ads.oppomobile.com^
 ||afs.googlesyndication.com^
+||advertising-api-eu.amazon.com^
 ||analytics.google.com^
 ||api-app.wo-cloud.com^
 ||api.bugsnag.com^
