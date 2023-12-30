@@ -4,8 +4,9 @@ android.clients.google.com
 production-graphql.eu-sharedservices.olxcdn.com
 gateway.fe.apple-dns.net
 api.techniknews.net
-googlevideo.com
 cdn.fbsbx.com
+googlevideo.com
+.googlevideo.com
 .ytimg.com
 .apple.com
 www.apple.com
