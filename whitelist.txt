@@ -8,6 +8,7 @@ googlevideo.com
 cdn.fbsbx.com
 .ytimg.com
 .apple.com
+www.apple.com
 cstat.cdn-apple.com
 inappcheck.itunes.apple.com
 smp-device-content.apple.com
