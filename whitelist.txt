@@ -6,6 +6,7 @@ gateway.fe.apple-dns.net
 api.techniknews.net
 googlevideo.com
 cdn.fbsbx.com
+ytimg.com
 cstat.cdn-apple.com
 inappcheck.itunes.apple.com
 smp-device-content.apple.com
