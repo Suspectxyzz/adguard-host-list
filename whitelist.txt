@@ -9,6 +9,7 @@ googlevideo.com
 .googlevideo.com
 .ytimg.com
 .apple.com
+.tiktokv.com
 tiktokv.com
 www.apple.com
 cstat.cdn-apple.com
