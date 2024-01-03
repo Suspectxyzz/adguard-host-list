@@ -24,6 +24,7 @@ cdn.openai.com
 api.smoot.apple.com
 api.amiabila.com
 oaic.report-uri.com
+openaiapi-site.azureedge.net
 nslookup.io
 downloaddispatch.itunes.apple.com
 app-site-association.cdn-apple.com
