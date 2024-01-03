@@ -5,6 +5,7 @@ production-graphql.eu-sharedservices.olxcdn.com
 gateway.fe.apple-dns.net
 api.techniknews.net
 cdn.fbsbx.com
+cdn.auth0.com
 googlevideo.com
 .googlevideo.com
 .ytimg.com
