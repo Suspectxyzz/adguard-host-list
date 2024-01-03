@@ -20,8 +20,10 @@ api.tracker.network
 downloads.raspberrypi.org
 downloads.raspberrypi.com
 mzstorekit.itunes.apple.com
+cdn.openai.com
 api.smoot.apple.com
 api.amiabila.com
+oaic.report-uri.com
 nslookup.io
 downloaddispatch.itunes.apple.com
 app-site-association.cdn-apple.com
