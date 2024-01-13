@@ -16,6 +16,7 @@ bag-cdn.itunes-apple.com.akadns.net
 www.apple.com
 cstat.cdn-apple.com
 inappcheck.itunes.apple.com
+emag.my.salesforce.com
 smp-device-content.apple.com
 api.tracker.network
 downloads.raspberrypi.org
