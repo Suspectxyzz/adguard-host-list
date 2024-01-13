@@ -17,6 +17,7 @@ www.apple.com
 cstat.cdn-apple.com
 inappcheck.itunes.apple.com
 emag.my.salesforce.com
+ekg.riotgames.com
 emag.my.salesforce-sites.com
 smp-device-content.apple.com
 api.tracker.network
