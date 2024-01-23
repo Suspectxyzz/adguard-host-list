@@ -11,6 +11,7 @@
 ||gvt3.com^
 ||hbloveinfo.com^
 ||hwcdn.net^
+||analytics-batch.blitz.gg^
 ||app-measurement.com^
 ||files.scamadviser.com^
 ||intalnirierotice.net^
