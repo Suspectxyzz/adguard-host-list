@@ -23,6 +23,7 @@ ekg.riotgames.com
 emag.my.salesforce-sites.com
 smp-device-content.apple.com
 api.tracker.network
+lzt.market
 downloads.raspberrypi.org
 downloads.raspberrypi.com
 mzstorekit.itunes.apple.com
