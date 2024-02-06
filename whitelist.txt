@@ -9,6 +9,7 @@ cdn.auth0.com
 googlevideo.com
 .googlevideo.com
 .ytimg.com
+a.nel.cloudflare.com
 .apple.com
 .tiktokv.com
 tiktokv.com
