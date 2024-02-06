@@ -33,6 +33,7 @@ api.amiabila.com
 oaic.report-uri.com
 openaiapi-site.azureedge.net
 nslookup.io
+github.githubassets.com
 downloaddispatch.itunes.apple.com
 app-site-association.cdn-apple.com
 gsp-ssl.ls-apple.com.akadns.net
