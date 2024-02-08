@@ -20,6 +20,8 @@ cstat.cdn-apple.com
 files.pythonhosted.org
 pythonhosted.org
 inappcheck.itunes.apple.com
+logi.com
+logitech.com
 emag.my.salesforce.com
 ekg.riotgames.com
 emag.my.salesforce-sites.com
