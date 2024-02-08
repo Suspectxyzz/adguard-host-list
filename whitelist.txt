@@ -15,6 +15,7 @@ a.nel.cloudflare.com
 tiktokv.com
 bag-cdn.itunes-apple.com.akadns.net
 www.apple.com
+www.logitechg.com
 cstat.cdn-apple.com
 files.pythonhosted.org
 pythonhosted.org
