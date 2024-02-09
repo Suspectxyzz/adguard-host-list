@@ -54,6 +54,7 @@ mobro.unicreditbanking.eu
 worproject.com
 dl.delivery.mp.microsoft.com
 api.twitch.tv
+sellpass.io
 gql.twitch.tv
 gamedownloads-rockstargames-com.akamaized.net
 api.weather.com
