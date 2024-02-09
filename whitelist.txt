@@ -57,6 +57,8 @@ gamedownloads-rockstargames-com.akamaized.net
 api.weather.com
 lcdn-locator.apple.com
 caps.xmcsrv.net
+static-eu.payments-amazon.com
+js.braintreegateway.com
 app-global-2.lilithgame.com
 unicreditcee.sc.omtrdc.net
 app.lilithgame.com
