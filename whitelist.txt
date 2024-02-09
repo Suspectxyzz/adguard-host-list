@@ -24,9 +24,11 @@ logi.com
 logitech.com
 emag.my.salesforce.com
 ekg.riotgames.com
+payments-eu.amazon.com
 emag.my.salesforce-sites.com
 smp-device-content.apple.com
 api.tracker.network
+braintreegateway.com
 lzt.market
 downloads.raspberrypi.org
 downloads.raspberrypi.com
