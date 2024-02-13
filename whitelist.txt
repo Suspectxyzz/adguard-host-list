@@ -22,6 +22,7 @@ pythonhosted.org
 inappcheck.itunes.apple.com
 logi.com
 logitech.com
+tiktokcdn.com
 emag.my.salesforce.com
 ekg.riotgames.com
 payments-eu.amazon.com
