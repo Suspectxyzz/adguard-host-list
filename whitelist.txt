@@ -17,6 +17,7 @@ bag-cdn.itunes-apple.com.akadns.net
 www.apple.com
 www.logitechg.com
 cstat.cdn-apple.com
+www.python.org
 files.pythonhosted.org
 pythonhosted.org
 inappcheck.itunes.apple.com
