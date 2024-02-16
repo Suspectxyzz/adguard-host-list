@@ -13,6 +13,9 @@ a.nel.cloudflare.com
 .apple.com
 .tiktokv.com
 tiktokv.com
+steamuserimages-a.akamaihd.net
+clientconfig.akamai.steamstatic.com.edgesuite.net
+akamaihd.net.edgesuite.net
 bag-cdn.itunes-apple.com.akadns.net
 www.apple.com
 www.logitechg.com
