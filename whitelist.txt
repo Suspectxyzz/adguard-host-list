@@ -25,6 +25,7 @@ logi.com
 logitech.com
 tiktokcdn.com
 emag.my.salesforce.com
+avatars.steamstatic.com
 ekg.riotgames.com
 payments-eu.amazon.com
 emag.my.salesforce-sites.com
