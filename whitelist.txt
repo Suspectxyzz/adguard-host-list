@@ -39,6 +39,7 @@ cdn.openai.com
 steamstatic.com
 api.smoot.apple.com
 api.amiabila.com
+akamaihd.net
 oaic.report-uri.com
 openaiapi-site.azureedge.net
 nslookup.io
