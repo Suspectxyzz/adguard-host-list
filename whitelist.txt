@@ -42,6 +42,7 @@ braintreegateway.com
 btloader.com
 caps.xmcsrv.net
 categories.olxcdn.com
+.akamaihd.net
 cdn.auth0.com
 cdn.cookielaw.org
 cdn.fbsbx.com
