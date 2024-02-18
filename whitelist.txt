@@ -234,6 +234,7 @@ threads.com
 tiktok.com
 tiktokcdn.com
 tiktokv.com
+.tiktokcdn.com
 time.apple.com
 time.windows.com
 tr-ist-anx-r002.router.teamviewer.com
