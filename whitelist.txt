@@ -25,6 +25,8 @@ apps.mzstatic.com
 assets.alicdn.com
 .cloudfront.net
 lol.secure.dyn.riotcdn.net
+valorant.secure.dyn.riotcdn.net
+riot-client.dyn.riotcdn.net
 avatars.akamai.steamstatic.com
 avatars.steamstatic.com
 b.cdnst.net
