@@ -23,6 +23,7 @@ app-site-association.cdn-apple.com
 app.lilithgame.com
 apps.mzstatic.com
 assets.alicdn.com
+.cloudfront.net
 lol.secure.dyn.riotcdn.net
 avatars.akamai.steamstatic.com
 avatars.steamstatic.com
