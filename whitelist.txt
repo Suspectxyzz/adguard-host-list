@@ -35,6 +35,9 @@ riot-client.dyn.riotcdn.net
 avatars.akamai.steamstatic.com
 avatars.steamstatic.com
 b.cdnst.net
+.cdnst.net
+taobao.com
+.taobao.com
 bag-cdn.itunes-apple.com.akadns.net
 bag.itunes.apple.com
 bans.lol/cringe
