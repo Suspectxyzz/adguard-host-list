@@ -17,6 +17,7 @@ api.tracker.network
 www.microsoft.com
 microsoft.com
 api.twitch.tv
+.cloudflare.com
 api.twitter.com
 api.weather.com
 api2.amplitude.com
