@@ -21,6 +21,7 @@ api.twitch.tv
 api.twitter.com
 api.weather.com
 api2.amplitude.com
+www.redditstatic.com
 app-global-2.lilithgame.com
 app-site-association.cdn-apple.com
 app.lilithgame.com
