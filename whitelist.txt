@@ -2,6 +2,7 @@
 .googlevideo.com
 .tiktokv.com
 .ytimg.com
+.sellpass.io
 a.nel.cloudflare.com
 abs.twimg.com
 akamaihd.net
