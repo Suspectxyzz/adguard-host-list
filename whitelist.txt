@@ -3,6 +3,8 @@
 .tiktokv.com
 .ytimg.com
 .sellpass.io
+.tiktokcdn-us.com
+.tiktokcdn-eu.com
 a.nel.cloudflare.com
 abs.twimg.com
 akamaihd.net
