@@ -5,6 +5,7 @@
 .sellpass.io
 .tiktokcdn-us.com
 .tiktokcdn-eu.com
+.ibyteimg.com
 a.nel.cloudflare.com
 abs.twimg.com
 akamaihd.net
