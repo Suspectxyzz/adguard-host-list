@@ -6,6 +6,7 @@
 .tiktokcdn-us.com
 .tiktokcdn-eu.com
 .ibyteimg.com
+.sugargoo.com
 a.nel.cloudflare.com
 abs.twimg.com
 akamaihd.net
