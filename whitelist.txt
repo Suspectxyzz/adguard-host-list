@@ -7,6 +7,7 @@
 .tiktokcdn-eu.com
 .ibyteimg.com
 .sugargoo.com
+.graphassets.com
 a.nel.cloudflare.com
 abs.twimg.com
 akamaihd.net
@@ -16,6 +17,7 @@ amp-api-edge.apps.apple.com
 android.clients.google.com
 api.amiabila.com
 api.imgur.com
+media.graphassets.com
 api.smoot.apple.com
 api.techniknews.net
 api.tracker.network
