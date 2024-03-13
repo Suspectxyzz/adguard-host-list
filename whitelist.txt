@@ -8,6 +8,7 @@
 .ibyteimg.com
 .sugargoo.com
 .graphassets.com
+.checkout.com
 a.nel.cloudflare.com
 abs.twimg.com
 akamaihd.net
