@@ -8,6 +8,7 @@
 .ibyteimg.com
 .lilithgame.com
 .xilinx.com
+.alicdn.com
 .sugargoo.com
 .asusrouter.com
 .graphassets.com
