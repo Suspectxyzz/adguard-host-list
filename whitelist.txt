@@ -22,6 +22,7 @@ aliexpress.com
 amp-api-edge.apps.apple.com
 android.clients.google.com
 api.amiabila.com
+.windowsupdate.com
 api.imgur.com
 media.graphassets.com
 api.smoot.apple.com
