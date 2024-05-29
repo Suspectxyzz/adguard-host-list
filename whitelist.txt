@@ -18,6 +18,8 @@
 a.nel.cloudflare.com
 .asusrouter.com
 .amd.com
+.braintreegateway.com
+.lencr.org
 abs.twimg.com
 akamaihd.net
 whatismyip.akamai.com
