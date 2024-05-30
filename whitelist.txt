@@ -12,6 +12,7 @@
 .steamstatic.com
 .alicdn.com
 .sugargoo.com
+.godaddy.com
 .asusrouter.com
 .graphassets.com
 .checkout.com
