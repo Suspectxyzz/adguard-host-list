@@ -15,6 +15,7 @@ blitz-desktop.blitz.gg/js/chunk-2JU3GSXJ.js
 .sugargoo.com
 .godaddy.com
 .asusrouter.com
+.stripe.com
 .graphassets.com
 .checkout.com
 a.nel.cloudflare.com
