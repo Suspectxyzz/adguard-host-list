@@ -22,6 +22,7 @@ a.nel.cloudflare.com
 .amd.com
 .braintreegateway.com
 .lencr.org
+.vencord.dev
 abs.twimg.com
 akamaihd.net
 whatismyip.akamai.com
