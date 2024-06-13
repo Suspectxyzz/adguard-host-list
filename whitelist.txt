@@ -79,6 +79,7 @@ bg-sof-anx-r008.router.teamviewer.com
 bg-sof-anx-r009.router.teamviewer.com
 bg-sof-anx-r010.router.teamviewer.com
 bit.ly
+api.ipify.org
 blizzard.com
 www.taobao.com
 braintreegateway.com
