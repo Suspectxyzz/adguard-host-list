@@ -65,6 +65,7 @@ riot-client.dyn.riotcdn.net
 avatars.akamai.steamstatic.com
 avatars.steamstatic.com
 b.cdnst.net
+github-cloud.s3.amazonaws.com
 .cdnst.net
 taobao.com
 .taobao.com
