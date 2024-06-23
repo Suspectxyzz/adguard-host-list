@@ -22,6 +22,7 @@ a.nel.cloudflare.com
 .asusrouter.com
 .amd.com
 .braintreegateway.com
+.dualstack.awsglobalaccelerator.com
 .lencr.org
 .vencord.dev
 abs.twimg.com
