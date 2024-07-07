@@ -192,3 +192,7 @@
 ||promocenter-360.com^
 ||2mdn.net^
 ||tooaastandhei.info^
+/widget/ads
+.adbox.banner_ads.adsbox
+.textads
+textads
