@@ -41,6 +41,7 @@ api.imgur.com
 media.graphassets.com
 api.smoot.apple.com
 api.techniknews.net
+fonts.gstatic.com
 api.tracker.network
 www.microsoft.com
 microsoft.com
