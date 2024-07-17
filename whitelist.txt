@@ -17,6 +17,7 @@ blitz-desktop.blitz.gg/js/chunk-2JU3GSXJ.js
 .asusrouter.com
 .stripe.com
 .graphassets.com
+.aaplimg.com
 .checkout.com
 a.nel.cloudflare.com
 .asusrouter.com
