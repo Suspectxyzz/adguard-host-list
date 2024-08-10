@@ -11,6 +11,8 @@
 ||gvt.com^
 ||gvt2.com^
 ||gvt3.com^
+||eye4.cn^
+||eye.cn^
 ||hbloveinfo.com^
 ||hwcdn.net^
 ||analytics-batch.blitz.gg^
