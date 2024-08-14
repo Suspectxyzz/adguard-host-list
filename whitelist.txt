@@ -19,7 +19,9 @@ blitz-desktop.blitz.gg/js/chunk-2JU3GSXJ.js
 .graphassets.com
 .aaplimg.com
 .checkout.com
+.emag.ro
 a.nel.cloudflare.com
+.cloudflare.com
 .asusrouter.com
 .amd.com
 .braintreegateway.com
