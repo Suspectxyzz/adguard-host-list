@@ -20,6 +20,7 @@ blitz-desktop.blitz.gg/js/chunk-2JU3GSXJ.js
 .aaplimg.com
 .checkout.com
 .emag.ro
+emag.ro
 www.emag.ro
 a.nel.cloudflare.com
 .cloudflare.com
