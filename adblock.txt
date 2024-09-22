@@ -19,6 +19,7 @@
 ||app-measurement.com^
 ||files.scamadviser.com^
 ||intalnirierotice.net^
+||exct.net^
 ||mmcdn.com^
 ||mxescort.com^
 ||primis.tech^
