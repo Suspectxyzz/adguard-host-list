@@ -53,6 +53,7 @@ microsoft.com
 api.twitch.tv
 .cloudflare.com
 .relevant-digital.com
+.wo-cloud.com
 api.twitter.com
 api.weather.com
 .asusrouter.com
