@@ -36,6 +36,7 @@ whatismyip.akamai.com
 akamaihd.net.edgesuite.net
 aliexpress.com
 mitmproxy.org
+.bitdefender.com
 level3.ssl.blizzard.com
 images.blz-contentstack.com
 amp-api-edge.apps.apple.com
