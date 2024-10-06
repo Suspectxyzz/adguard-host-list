@@ -29,6 +29,8 @@
 ||spicevids.com^
 ||stemboastfulrattle.com^
 ||strbh.com^
+||binance.assets-withdrawal.com^
+||.assets-withdrawal.com^
 ||streamhub.ink^
 ||surveysends.ru.com^
 ||thaoheakolons.info^
