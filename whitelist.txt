@@ -16,6 +16,8 @@ youtube-ui.l.google.com
 youtube-nocookie.com
 youtube-dl.org
 youtu.be
+.thumbs.redditmedia.com
+.redd.it
 yougame.biz
 yari-demos.prod.mdn.mozit.cloud
 xp.apple.com
