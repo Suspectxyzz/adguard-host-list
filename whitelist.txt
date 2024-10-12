@@ -16,6 +16,7 @@ youtube-ui.l.google.com
 youtube-nocookie.com
 youtube-dl.org
 youtu.be
+storage.googleapis.com
 .thumbs.redditmedia.com
 .redd.it
 yougame.biz
