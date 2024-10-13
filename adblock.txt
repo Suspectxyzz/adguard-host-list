@@ -122,3 +122,4 @@
 ||k8s-jftechws-6c2d0f30bb-1235756169.eu-central-1.elb.amazonaws.com^
 ||app-measurement.com^
 ||upgrade.secu100.net^
+||.wtrmblea.net^
