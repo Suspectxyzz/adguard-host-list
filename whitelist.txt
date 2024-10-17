@@ -27,6 +27,7 @@ worproject.com
 windows.php.net
 wiki.alpinelinux.org
 widget.trustpilot.com
+.paypal.com
 whotracks.me
 whatismyip.akamai.com
 webpifeed.blob.core.windows.net
