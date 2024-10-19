@@ -29,6 +29,7 @@ wiki.alpinelinux.org
 widget.trustpilot.com
 .paypal.com
 whotracks.me
+.shop.app
 whatismyip.akamai.com
 webpifeed.blob.core.windows.net
 web.facebook.com
