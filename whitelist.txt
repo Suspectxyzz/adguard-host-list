@@ -42,6 +42,7 @@ vsls-prod-ins-asse-private-relay.servicebus.windows.net
 vscodium.vercel.app
 vscodium.now.sh
 vscodeweb.azureedge.net
+dropbox.com
 vscode.github.com
 vscode.dev
 vscode-sync.trafficmanager.net
