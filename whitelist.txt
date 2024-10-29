@@ -107,6 +107,7 @@ time.apple.com
 tiktokv.com
 tiktokcdn.com
 tiktok.com
+.shop.app
 threads.com
 technet.microsoft.com
 techcommunity.microsoft.com
