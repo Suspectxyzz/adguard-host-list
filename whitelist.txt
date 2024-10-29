@@ -263,7 +263,6 @@ ntp.msn.com
 ntfy.sh
 nslookup.io
 npmjs.com
-notable.md
 notable.app
 nodejs.org
 nodejs.dev
@@ -324,12 +323,10 @@ java.com
 ist-anx-r001.router.teamviewer.com
 ipinfo.io/ip
 ipinfo.io
-ip.notable.md
 ip.notable.app
 ip-api.com
 iosapps.itunes.apple.com
 international-gfe.download.nvidia.com
-interactive-examples.mdn.mozilla.net
 inappcheck.itunes.apple.com
 img.s-msn.com
 img-resizer.prd.01.eu-west-1.eu.olx.org
