@@ -114,6 +114,7 @@ techcommunity.microsoft.com
 taobao.com
 tabler-icons.io
 t.me
+.ttwstatic.com
 t.imgur.com
 t.co
 t.castle.io
