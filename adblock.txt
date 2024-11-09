@@ -30,6 +30,7 @@
 ||stemboastfulrattle.com^
 ||strbh.com^
 ||binance.assets-withdrawal.com^
+||.tradedoubler.com^
 ||.assets-withdrawal.com^
 ||streamhub.ink^
 ||surveysends.ru.com^
