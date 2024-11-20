@@ -28,6 +28,7 @@ windows.php.net
 wiki.alpinelinux.org
 widget.trustpilot.com
 .paypal.com
+.youtube.com
 whotracks.me
 .shop.app
 whatismyip.akamai.com
