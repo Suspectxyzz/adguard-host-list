@@ -22,6 +22,7 @@ storage.googleapis.com
 yougame.biz
 yari-demos.prod.mdn.mozit.cloud
 xp.apple.com
+.reddit.com
 xamarinstorage.blob.core.windows.net
 worproject.com
 windows.php.net
