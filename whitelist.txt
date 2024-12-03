@@ -59,6 +59,7 @@ video.twimg.com
 valorant.secure.dyn.riotcdn.net
 valorant.dyn.riotcdn.net
 v.tampermonkey.net
+aka.ms
 user-images.githubusercontent.com
 user-content.gitlab-static.net
 urbackup.atlassian.net
