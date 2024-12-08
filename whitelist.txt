@@ -39,6 +39,7 @@ weather-analytics-events.apple.com
 w.tampermonkey.net
 vsstartpagenewsfeed.azureedge.net
 vssps.dev.azure.com
+.olxcdn.com
 vsmarketplacebadge.apphb.com
 vsls-prod-ins-asse-private-relay.servicebus.windows.net
 vscodium.vercel.app
