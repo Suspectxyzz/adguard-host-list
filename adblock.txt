@@ -54,6 +54,14 @@
 ||ads.pinterest.com^
 ||ads.tiktok.com^
 ||ads.yahoo.com^
+||.starmeetonline.com^
+||.theeverydaygame.com^
+||.lust-goddess.com^
+||.theeverydaygame.com^
+||.mozzartbet.ro^
+||.imkirh.com^
+||.unibet.ro^
+|.highratecpm.com^
 ||adservice.google.com^
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
