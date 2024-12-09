@@ -45,6 +45,7 @@ vsmarketplacebadge.apphb.com
 vsls-prod-ins-asse-private-relay.servicebus.windows.net
 vscodium.vercel.app
 vscodium.now.sh
+.ampproject.org
 vscodeweb.azureedge.net
 dropbox.com
 vscode.github.com
