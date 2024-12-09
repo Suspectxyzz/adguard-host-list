@@ -20,6 +20,7 @@ storage.googleapis.com
 .thumbs.redditmedia.com
 .redd.it
 yougame.biz
+.googleapis.com
 yari-demos.prod.mdn.mozit.cloud
 xp.apple.com
 .reddit.com
