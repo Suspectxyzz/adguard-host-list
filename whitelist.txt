@@ -7,7 +7,7 @@ ysear.ch
 yque.com
 ypncdn.com
 yoyostore.com
-portainer.io
+.portainer.io
 yoyoplay.com
 yoyita.com
 youtubei.googleapis.com
