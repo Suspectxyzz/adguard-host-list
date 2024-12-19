@@ -33,6 +33,7 @@ widget.trustpilot.com
 .paypal.com
 .youtube.com
 whotracks.me
+.steampowered.com
 .shop.app
 whatismyip.akamai.com
 webpifeed.blob.core.windows.net
