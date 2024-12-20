@@ -27,6 +27,8 @@ xp.apple.com
 .reddit.com
 xamarinstorage.blob.core.windows.net
 worproject.com
+cdn.scarabresearch.com
+cdn-cookieyes.com
 windows.php.net
 wiki.alpinelinux.org
 widget.trustpilot.com
