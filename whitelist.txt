@@ -25,6 +25,7 @@ yougame.biz
 yari-demos.prod.mdn.mozit.cloud
 xp.apple.com
 .reddit.com
+.aliyuncs.com
 xamarinstorage.blob.core.windows.net
 worproject.com
 cdn.scarabresearch.com
