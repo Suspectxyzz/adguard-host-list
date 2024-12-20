@@ -22,6 +22,8 @@ storage.googleapis.com
 .redd.it
 yougame.biz
 .googleapis.com
+tailscale.com
+.tailscale.com
 yari-demos.prod.mdn.mozit.cloud
 xp.apple.com
 .reddit.com
