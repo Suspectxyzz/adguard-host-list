@@ -116,6 +116,8 @@
 ||yahoo.com^
 ||dpm.demdex.net^
 ||promocenter-360.com^
+||.uh.ro^
+||.zilesinopti.ro^
 ||2mdn.net^
 ||fastly.net^
 ||tooaastandhei.info^
