@@ -33,6 +33,7 @@ worproject.com
 cdn.scarabresearch.com
 www.temu.com
 temu.com
+.kwcdn.com
 cdn-cookieyes.com
 windows.php.net
 .alibaba.com
