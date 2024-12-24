@@ -31,8 +31,12 @@ xp.apple.com
 xamarinstorage.blob.core.windows.net
 worproject.com
 cdn.scarabresearch.com
+www.temu.com
+temu.com
 cdn-cookieyes.com
 windows.php.net
+.alibaba.com
+count.shein.com
 wiki.alpinelinux.org
 widget.trustpilot.com
 .paypal.com
