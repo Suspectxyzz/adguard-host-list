@@ -102,6 +102,9 @@
 .whois.com
 .wilderssecurity.com
 .windowsupdate.com
+wsmetrics.batch.com
+in.appcenter.ms
+graphql.contentful.com
 .wo-cloud.com
 .xilinx.com
 .youtube.com
