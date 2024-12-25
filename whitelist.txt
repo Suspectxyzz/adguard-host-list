@@ -61,6 +61,8 @@
 .portainer.io
 .programmingfonts.org
 .proxyium.com
+.plainproxies.com
+.proxyium.com
 .proxysite.com
 .meowless.club
 .python.org
