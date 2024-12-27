@@ -6,6 +6,7 @@
 .aliexpress.com
 .aliyuncs.com
 .amd.com
+.asus.com
 .ampproject.org
 .apple.com
 .asusrouter.com
