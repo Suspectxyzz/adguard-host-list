@@ -112,6 +112,7 @@ graphql.contentful.com
 .xilinx.com
 .youtube.com
 .ytimg.com
+datarouter.ol.epicgames.com
 a.nel.cloudflare.com
 a1449.dscg2.akamai.net
 about.gitlab.com
