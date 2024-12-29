@@ -28,6 +28,7 @@
 .dyn.riotcdn.net
 .editmysite.com
 .electronjs.org
+.squarespace-cdn.com
 .emag.ro
 .github.com
 .github.dev
@@ -45,6 +46,7 @@
 .kubernetes.io
 .kwcdn.com
 .lencr.org
+.squarespace.com
 .lilithgame.com
 .logitechg.com
 .microsoft.com
