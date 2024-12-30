@@ -523,6 +523,7 @@ spotlights-feed.github.com
 sqlite.org
 sqlitebrowser.org
 srtb.msn.com
+swap.gg
 sso.eu.edenred.io
 star-mini.c10r.facebook.com
 star.c10r.facebook.com
