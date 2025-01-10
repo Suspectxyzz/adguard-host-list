@@ -330,6 +330,7 @@ github-production-user-asset-6210df.s3.amazonaws.com
 github-releases.githubusercontent.com
 b-graph.facebook.com
 github.blog
+gamesense.pub
 github.com
 github.community
 github.dev
