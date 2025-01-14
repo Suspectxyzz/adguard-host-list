@@ -107,6 +107,7 @@
 .whois.com
 .wilderssecurity.com
 .windowsupdate.com
+.asusrouter.com
 wsmetrics.batch.com
 in.appcenter.ms
 graphql.contentful.com
