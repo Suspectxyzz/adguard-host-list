@@ -1,146 +1,146 @@
-0.0.0.0 updates.cdn-apple.com
-0.0.0.0 bpapi.apple.com
-0.0.0.0 afcdn.net
-0.0.0.0 brazzersnetwork.com
-0.0.0.0 downloadisnow.com
-0.0.0.0 ent-cdn.com
-0.0.0.0 ads.pinterest.com
-0.0.0.0 flashtalking.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googleadservices.com
-0.0.0.0 gvt.com
-0.0.0.0 gvt2.com
-0.0.0.0 gvt3.com
-0.0.0.0 eye4.cn
-0.0.0.0 eye.cn
-0.0.0.0 hbloveinfo.com
-0.0.0.0 hwcdn.net
-0.0.0.0 ijeljournal.com
-0.0.0.0 .ijeljournal.com
-0.0.0.0 analytics-batch.blitz.gg
-0.0.0.0 app-measurement.com
-0.0.0.0 files.scamadviser.com
-0.0.0.0 intalnirierotice.net
-0.0.0.0 exct.net
-0.0.0.0 wbpoofgurde.com
-0.0.0.0 bgsdqz.blogspot.in
-0.0.0.0 xvisionkaraj.com
-0.0.0.0 mmcdn.com
-0.0.0.0 mxescort.com
-0.0.0.0 primis.tech
-0.0.0.0 semqraso.net
-0.0.0.0 sentry.io
-0.0.0.0 spicevids.com
-0.0.0.0 stemboastfulrattle.com
-0.0.0.0 strbh.com
-0.0.0.0 kitio.com
-0.0.0.0 binance.assets-withdrawal.com
-0.0.0.0 .tradedoubler.com
-0.0.0.0 .assets-withdrawal.com
-0.0.0.0 streamhub.ink
-0.0.0.0 surveysends.ru.com
-0.0.0.0 thaoheakolons.info
-0.0.0.0 ticalfelixstownru.info
-0.0.0.0 tsyndicate.com
-0.0.0.0 ttcache.com
-0.0.0.0 .eebbostx.com
-0.0.0.0 .rdtk.io
-0.0.0.0 .mlatrmae.net
-0.0.0.0 .gamingadult.com
-0.0.0.0 .mtasv.net
-0.0.0.0 .bithunds.xyz
-0.0.0.0 paeastei.net
-0.0.0.0 uadthenborea.info
-0.0.0.0 vypywufmbsp.com
-0.0.0.0 wasqimet.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ads-api.tiktok.com
-0.0.0.0 ads-api.twitter.com
-0.0.0.0 ads-sg.tiktok.com
-0.0.0.0 ads-tiktok.com
-0.0.0.0 ads.tiktok.com
-0.0.0.0 ads.yahoo.com
-0.0.0.0 .starmeetonline.com
-0.0.0.0 .theeverydaygame.com
-0.0.0.0 .lust-goddess.com
-0.0.0.0 .mozzartbet.ro
-0.0.0.0 .imkirh.com
-0.0.0.0 .unibet.ro
-0.0.0.0.highratecpm.com
-0.0.0.0 adservice.google.com
-0.0.0.0 adtago.s3.amazonaws.com
-0.0.0.0 adtech.yahooinc.com
-0.0.0.0 advertising-api-eu.amazon.com
-0.0.0.0 advertising.apple.com
-0.0.0.0 advertising.yahoo.com
-0.0.0.0 advertising.yandex.ru
-0.0.0.0 advice-ads.s3.amazonaws.com
-0.0.0.0 adx.ads.oppomobile.com
-0.0.0.0 afs.googlesyndication.com
-0.0.0.0 analytics.google.com
-0.0.0.0 api-app.wo-cloud.com
-0.0.0.0 api.bugsnag.com
-0.0.0.0 app.bugsnag.com
-0.0.0.0 app.getsentry.com
-0.0.0.0 appmetrica.yandex.ru
-0.0.0.0 appsflyersdk.com
-0.0.0.0 b.thumbs.redditmedia.com
-0.0.0.0 blob.mwh04prdstr06c.store.core.windows.net
-0.0.0.0 browser.sentry-cdn.com
-0.0.0.0 business-api.tiktok.com
-0.0.0.0 ck.ads.oppomobile.com
-0.0.0.0 click.googleanalytics.com
-0.0.0.0 data.ads.oppomobile.com
-0.0.0.0 digitalassetlinks.googleapis.com
-0.0.0.0 .jllpolkj.net
-0.0.0.0 .jllpolkj.com
-0.0.0.0 .trafficjunky.com
-0.0.0.0 .rncdn7.com
-0.0.0.0 api.spotify.com
-0.0.0.0 features.overwolf.com
-0.0.0.0 firebaseremoteconfig.googleapis.com
-0.0.0.0 gemini.yahoo.com
-0.0.0.0 gos-api.gos-gsp.io
-0.0.0.0 gos-gsp.io
-0.0.0.0 linkedin.com
-0.0.0.0 log.fc.yahoo.com
-0.0.0.0 metrika.yandex.ru
-0.0.0.0 notifications-pa.googleapis.com
-0.0.0.0 notify.bugsnag.com
-0.0.0.0 partnerads.ysm.yahoo.com
-0.0.0.0 ro-odc.samsungapps.com
-0.0.0.0 searchnotifications-pa.googleapis.com
-0.0.0.0 seed.siri.apple.com
-0.0.0.0 sessions.bugsnag.com
-0.0.0.0 telemetry.gfe.nvidia.com
-0.0.0.0 udc.yahoo.com
-0.0.0.0 udcm.yahoo.com
-0.0.0.0 vas.samsungapps.com
-0.0.0.0 widgets.pinterest.com
-0.0.0.0 interactivebrokers.hu
-0.0.0.0 dpm.demdex.net
-0.0.0.0 promocenter-360.com
-0.0.0.0 2mdn.net
-0.0.0.0 tooaastandhei.info
-0.0.0.0 tp-link.com
-0.0.0.0 interactivebrokers.hup
-0.0.0.0 yahoo.com
-0.0.0.0 .uh.ro
-0.0.0.0 .zilesinopti.ro
-0.0.0.0 fastly.net
-0.0.0.0 consent.yahoo.com
-0.0.0.0 strawguineaequanimity.com
-0.0.0.0 pogothere.xyz
-0.0.0.0 sr7pv7n5x.com
-0.0.0.0 instructorloneliness.com
-0.0.0.0 wnt-some-push.net
-0.0.0.0 leostop.com
-0.0.0.0 streamhub.to
-0.0.0.0 promotion.xmeye.net
-0.0.0.0 app-support.xmcsrv.net
-0.0.0.0 .pscp.tv
-0.0.0.0 access-pms.secu100.net
-0.0.0.0 caps.xmcsrv.net
-0.0.0.0 k8s-jftechws-6c2d0f30bb-1235756169.eu-central-1.elb.amazonaws.com
-0.0.0.0 upgrade.secu100.net
-0.0.0.0 .wtrmblea.net
+||updates.cdn-apple.com^  
+||bpapi.apple.com^  
+||afcdn.net^  
+||brazzersnetwork.com^  
+||downloadisnow.com^  
+||ent-cdn.com^  
+||ads.pinterest.com^  
+||flashtalking.com^  
+||googleads.g.doubleclick.net^  
+||googleadservices.com^  
+||gvt.com^  
+||gvt2.com^  
+||gvt3.com^  
+||eye4.cn^  
+||eye.cn^  
+||hbloveinfo.com^  
+||hwcdn.net^  
+||ijeljournal.com^  
+||.ijeljournal.com^  
+||analytics-batch.blitz.gg^  
+||app-measurement.com^  
+||files.scamadviser.com^  
+||intalnirierotice.net^  
+||exct.net^  
+||wbpoofgurde.com^  
+||bgsdqz.blogspot.in^  
+||xvisionkaraj.com^  
+||mmcdn.com^  
+||mxescort.com^  
+||primis.tech^  
+||semqraso.net^  
+||sentry.io^  
+||spicevids.com^  
+||stemboastfulrattle.com^  
+||strbh.com^  
+||kitio.com^  
+||binance.assets-withdrawal.com^  
+||.tradedoubler.com^  
+||.assets-withdrawal.com^  
+||streamhub.ink^  
+||surveysends.ru.com^  
+||thaoheakolons.info^  
+||ticalfelixstownru.info^  
+||tsyndicate.com^  
+||ttcache.com^  
+||.eebbostx.com^  
+||.rdtk.io^  
+||.mlatrmae.net^  
+||.gamingadult.com^  
+||.mtasv.net^  
+||.bithunds.xyz^  
+||paeastei.net^  
+||uadthenborea.info^  
+||vypywufmbsp.com^  
+||wasqimet.net^  
+||ad.doubleclick.net^  
+||ads-api.tiktok.com^  
+||ads-api.twitter.com^  
+||ads-sg.tiktok.com^  
+||ads-tiktok.com^  
+||ads.tiktok.com^  
+||ads.yahoo.com^  
+||.starmeetonline.com^  
+||.theeverydaygame.com^  
+||.lust-goddess.com^  
+||.mozzartbet.ro^  
+||.imkirh.com^  
+||.unibet.ro^  
+||.highratecpm.com^  
+||adservice.google.com^  
+||adtago.s3.amazonaws.com^  
+||adtech.yahooinc.com^  
+||advertising-api-eu.amazon.com^  
+||advertising.apple.com^  
+||advertising.yahoo.com^  
+||advertising.yandex.ru^  
+||advice-ads.s3.amazonaws.com^  
+||adx.ads.oppomobile.com^  
+||afs.googlesyndication.com^  
+||analytics.google.com^  
+||api-app.wo-cloud.com^  
+||api.bugsnag.com^  
+||app.bugsnag.com^  
+||app.getsentry.com^  
+||appmetrica.yandex.ru^  
+||appsflyersdk.com^  
+||b.thumbs.redditmedia.com^  
+||blob.mwh04prdstr06c.store.core.windows.net^  
+||browser.sentry-cdn.com^  
+||business-api.tiktok.com^  
+||ck.ads.oppomobile.com^  
+||click.googleanalytics.com^  
+||data.ads.oppomobile.com^  
+||digitalassetlinks.googleapis.com^  
+||.jllpolkj.net^  
+||.jllpolkj.com^  
+||.trafficjunky.com^  
+||.rncdn7.com^  
+||api.spotify.com^  
+||features.overwolf.com^  
+||firebaseremoteconfig.googleapis.com^  
+||gemini.yahoo.com^  
+||gos-api.gos-gsp.io^  
+||gos-gsp.io^  
+||linkedin.com^  
+||log.fc.yahoo.com^  
+||metrika.yandex.ru^  
+||notifications-pa.googleapis.com^  
+||notify.bugsnag.com^  
+||partnerads.ysm.yahoo.com^  
+||ro-odc.samsungapps.com^  
+||searchnotifications-pa.googleapis.com^  
+||seed.siri.apple.com^  
+||sessions.bugsnag.com^  
+||telemetry.gfe.nvidia.com^  
+||udc.yahoo.com^  
+||udcm.yahoo.com^  
+||vas.samsungapps.com^  
+||widgets.pinterest.com^  
+||interactivebrokers.hu^  
+||dpm.demdex.net^  
+||promocenter-360.com^  
+||2mdn.net^  
+||tooaastandhei.info^  
+||tp-link.com^  
+||interactivebrokers.hup^  
+||yahoo.com^  
+||.uh.ro^  
+||.zilesinopti.ro^  
+||fastly.net^  
+||consent.yahoo.com^  
+||strawguineaequanimity.com^  
+||pogothere.xyz^  
+||sr7pv7n5x.com^  
+||instructorloneliness.com^  
+||wnt-some-push.net^  
+||leostop.com^  
+||streamhub.to^  
+||promotion.xmeye.net^  
+||app-support.xmcsrv.net^  
+||.pscp.tv^  
+||access-pms.secu100.net^  
+||caps.xmcsrv.net^  
+||k8s-jftechws-6c2d0f30bb-1235756169.eu-central-1.elb.amazonaws.com^  
+||upgrade.secu100.net^  
+||.wtrmblea.net^  
