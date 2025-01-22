@@ -93,6 +93,7 @@
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 digitalassetlinks.googleapis.com
 0.0.0.0 .jllpolkj.net
+0.0.0.0 .jllpolkj.com
 0.0.0.0 .rncdn7.com
 0.0.0.0 api.spotify.com
 0.0.0.0 features.overwolf.com
