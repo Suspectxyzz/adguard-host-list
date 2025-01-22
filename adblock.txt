@@ -142,6 +142,7 @@
 ||advertising.yandex.ru^
 ||advice-ads.s3.amazonaws.com^
 ||adx.ads.oppomobile.com^
+||.jllpolkj.net^
 ||afs.googlesyndication.com^
 ||analytics.google.com^
 ||api-app.wo-cloud.com^
