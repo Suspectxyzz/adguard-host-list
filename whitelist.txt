@@ -5,6 +5,7 @@
 .alicdn.com
 .aliexpress.com
 .aliyuncs.com
+.googlesyndication.com
 .amd.com
 .asus.com
 .ampproject.org
