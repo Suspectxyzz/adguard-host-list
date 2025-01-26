@@ -55,6 +55,9 @@
 .newgrounds.com
 .nike.com
 .npmjs.com
+.shop.app
+.paypalobjects.com
+.shopify.com
 .nuget.org
 .olx.ro
 .olxcdn.com
