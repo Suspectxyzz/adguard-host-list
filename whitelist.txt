@@ -431,6 +431,9 @@ mssdk-va.tiktok.com
 myactivity.google.com
 mzstorekit.itunes.apple.com
 netdna.bootstrapcdn.com
+android10.appboot.netflix.com
+android.prod.cloud.netflix.com
+push.prod.netflix.com
 newgrounds.com
 ngc.download.nvidia.com
 nginx.org
