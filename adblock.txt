@@ -93,7 +93,7 @@
 ||data.ads.oppomobile.com^  
 ||digitalassetlinks.googleapis.com^  
 ||.jllpolkj.net^  
-||.jllpolkj.com^  
+||jllpolkj.net^ 
 ||.trafficjunky.com^  
 ||.rncdn7.com^  
 ||api.spotify.com^  
