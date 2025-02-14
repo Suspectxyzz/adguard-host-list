@@ -47,6 +47,7 @@
 .kubernetes.io
 .kwcdn.com
 .lencr.org
+.geni.us
 .squarespace.com
 .lilithgame.com
 .logitechg.com
