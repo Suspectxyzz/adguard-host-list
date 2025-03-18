@@ -21,6 +21,7 @@
 .cloudfront.net
 .codecademy.com
 .croxyproxy.com
+cloudflareinsights.com
 .dart.dev
 .docker.com
 .dockerstatus.com
