@@ -8,7 +8,6 @@
 .googlesyndication.com
 .amd.com
 .asus.com
-.akadns.net
 .ampproject.org
 .apple.com
 .asusrouter.com
