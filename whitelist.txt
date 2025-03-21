@@ -7,6 +7,7 @@
 .aliyuncs.com
 .googlesyndication.com
 .amd.com
+.akadns.net
 .asus.com
 .ampproject.org
 .apple.com
