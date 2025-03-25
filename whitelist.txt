@@ -129,6 +129,7 @@ about.gitlab.com
 abs.twimg.com
 adguardteam.github.io
 admin.docker.com
+.herokuapp.com
 aid-frontend.prod.atl-paas.net
 aka.ms
 akamaihd.net
