@@ -314,6 +314,7 @@ forthebadge.com
 forum.techhut.tv
 forums.docker.com
 forums.unrealengine.com
+secured.netflix.com
 forums.ventoy.net
 frankfurt.apollo.olxcdn.com
 g.alicdn.com
