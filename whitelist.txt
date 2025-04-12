@@ -90,6 +90,7 @@ cloudflareinsights.com
 .sellpass.io
 .shop.app
 .smashingmagazine.com
+.fastly.net
 .sqlite.org
 .steampowered.com
 .steamstatic.com
