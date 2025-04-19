@@ -14,7 +14,9 @@
 ||eye4.cn^  
 ||eye.cn^  
 ||hbloveinfo.com^  
-||hwcdn.net^  
+||hwcdn.net^
+||.qq-cdn.com^
+||qq-cdn.com^
 ||ijeljournal.com^  
 ||.ijeljournal.com^  
 ||analytics-batch.blitz.gg^  
