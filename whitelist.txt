@@ -27,6 +27,7 @@ cloudflareinsights.com
 .docker.com
 .dockerstatus.com
 .dot.net
+file.thinkcar.com
 .dualstack.awsglobalaccelerator.com
 .dyn.riotcdn.net
 .editmysite.com
