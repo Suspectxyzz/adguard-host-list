@@ -117,6 +117,7 @@ file.thinkcar.com
 .wilderssecurity.com
 .windowsupdate.com
 .asusrouter.com
+private-user-images.githubusercontent.com
 wsmetrics.batch.com
 in.appcenter.ms
 graphql.contentful.com
