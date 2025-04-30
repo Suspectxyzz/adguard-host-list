@@ -235,6 +235,7 @@ connect.facebook.net
 console.python.org
 count.shein.com
 cpwebassets.codepen.io
+.anydesk.com
 cs10.wpc.v0cdn.net
 cs22.wpc.v0cdn.net
 csgocasetracker.com
