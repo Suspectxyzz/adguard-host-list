@@ -99,6 +99,7 @@ file.thinkcar.com
 .sublimehq.com
 .sublimetext.com
 .sugargoo.com
+download.nvidia.com
 .tailscale.com
 .taobao.com
 .teamviewer.com
