@@ -303,6 +303,7 @@ email.notify.docker.com
 eslint.org
 events-feed.github.com
 events.gfe.nvidia.com
+email.faceit.com
 fabricweb.azureedge.net
 facebook.com
 fd-assets.prod.atl-paas.net
