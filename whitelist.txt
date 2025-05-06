@@ -162,6 +162,11 @@ api.twitch.tv
 api.twitter.com
 api.weather.com
 api2.amplitude.com
+download.gfe.nvidia.com
+y2.allstar.gg
+featureassets.org
+mediacdn.allstar.gg
+prodregistryv2.org
 app-global-2.lilithgame.com
 app-site-association.cdn-apple.com
 app.docker.com
@@ -174,6 +179,9 @@ assets.gitlab-static.net
 atlassian.com
 auth.docker.io
 autohotkey.com
+afkarena.lilith.com
+mask.icloud.com
+is1-ssl.mzstatic.com
 av-build-tel-api-v1.avaloniaui.net
 avaloniaui.net
 avatar-management--avatars.us-west-2.prod.public.atl-paas.net
@@ -257,6 +265,8 @@ desktop.githubusercontent.com
 dev.java
 developer.fedoraproject.org
 developer.github.com
+dns.msftncsi.com
+gamesense.pub
 developer.microsoft.com
 developer.nvidia.com
 developercommunity.visualstudio.com
