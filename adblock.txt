@@ -83,6 +83,8 @@
 ||analytics.google.com^  
 ||api-app.wo-cloud.com^  
 ||api.bugsnag.com^  
+||.rncdn7.com^
+||.cdn77.org^
 ||app.bugsnag.com^  
 ||app.getsentry.com^  
 ||appmetrica.yandex.ru^  
