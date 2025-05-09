@@ -74,6 +74,7 @@ file.thinkcar.com
 .programmingfonts.org
 .proxyium.com
 .plainproxies.com
+cdn.deepseek.com
 .proxyium.com
 .proxysite.com
 .meowless.club
