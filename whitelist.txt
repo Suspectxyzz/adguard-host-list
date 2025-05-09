@@ -28,6 +28,8 @@ cloudflareinsights.com
 .dockerstatus.com
 .dot.net
 file.thinkcar.com
+mega.nz
+mediafire.com
 .dualstack.awsglobalaccelerator.com
 .dyn.riotcdn.net
 .editmysite.com
