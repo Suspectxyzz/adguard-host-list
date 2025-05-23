@@ -160,6 +160,7 @@ api.ipify.org
 api.nuget.org
 api.scout.docker.com
 api.smoot.apple.com
+whoami.akamai.net
 api.techniknews.net
 api.tracker.network
 api.twitch.tv
