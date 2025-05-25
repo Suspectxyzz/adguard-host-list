@@ -30,6 +30,7 @@ cloudflareinsights.com
 file.thinkcar.com
 mega.nz
 mediafire.com
+api.mapbox.com
 .dualstack.awsglobalaccelerator.com
 .dyn.riotcdn.net
 .editmysite.com
