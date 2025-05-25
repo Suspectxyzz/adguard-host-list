@@ -68,6 +68,16 @@
 ||.lust-goddess.com^  
 ||.mozzartbet.ro^  
 ||.imkirh.com^  
+||ads.tiktok.com^$important
+||ads-sg.tiktok.com^$important
+||www.omgplay.me^$important
+||api.thebetter.ai^$important
+||collect.saas.castbox.fm^$important
+||video.fias1-2.fna.fbcdn.net^$important
+||fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com^$important
+||dhg6tfla6xnxl.cloudfront.net^$important
+||d3gaqoezqzdns1.cloudfront.net^$important
+||xgapromomanager-pa.googleapis.com^$important
 ||.unibet.ro^  
 ||.highratecpm.com^  
 ||adservice.google.com^  
