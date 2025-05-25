@@ -34,6 +34,7 @@ api.mapbox.com
 .dualstack.awsglobalaccelerator.com
 .dyn.riotcdn.net
 .editmysite.com
+.sendgrid.net
 .electronjs.org
 .squarespace-cdn.com
 .emag.ro
