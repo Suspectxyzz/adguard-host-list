@@ -19,6 +19,7 @@
 .checkout.com
 .clearlinux.org
 .cloudflare.com
+.challengermode.com
 .cloudfront.net
 .codecademy.com
 .croxyproxy.com
