@@ -54,6 +54,7 @@ api.mapbox.com
 .jetbrains.com
 .kubernetes.io
 .kwcdn.com
+.steam.tv
 xsteamcommunity.com
 .lencr.org
 .geni.us
