@@ -44,6 +44,7 @@ api.mapbox.com
 .github.developerdan.com
 .github.io
 .godaddy.com
+.yubico.com
 .googleapis.com
 .googlevideo.com
 .graphassets.com
