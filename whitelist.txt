@@ -50,6 +50,7 @@ api.mapbox.com
 .graphassets.com
 .heidisql.com
 .i.imgur.com
+.discord.com
 .ibyteimg.com
 .java.com
 .jetbrains.com
