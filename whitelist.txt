@@ -27,6 +27,7 @@ cloudflareinsights.com
 .dart.dev
 .docker.com
 .dockerstatus.com
+discord.com
 .dot.net
 file.thinkcar.com
 mega.nz
