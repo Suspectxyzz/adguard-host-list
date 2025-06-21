@@ -54,7 +54,8 @@
 ||.gamingadult.com^  
 ||.mtasv.net^  
 ||.bithunds.xyz^  
-||paeastei.net^  
+||paeastei.net^
+||.sendgrid.net^
 ||uadthenborea.info^  
 ||vypywufmbsp.com^  
 ||wasqimet.net^  
