@@ -254,6 +254,9 @@ central.github.com
 challenges.cloudflare.com
 checkip.dyndns.org
 client.wns.windows.com
+steamcommunity.rip
+gamesense.pub
+dns.msftncsi.com
 clientconfig.akamai.steamstatic.com.edgesuite.net
 clients1.google.com
 clientservices.googleapis.com
