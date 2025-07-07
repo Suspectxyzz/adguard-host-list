@@ -40,6 +40,7 @@ api.mapbox.com
 .electronjs.org
 .squarespace-cdn.com
 .emag.ro
+.googletagmanager.com
 .github.com
 .github.dev
 .github.developerdan.com
