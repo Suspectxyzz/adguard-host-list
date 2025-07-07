@@ -50,6 +50,10 @@ api.mapbox.com
 .googlevideo.com
 .graphassets.com
 .heidisql.com
+.usercentrics.eu
+.amzn.to
+.wpc-download.gfe.nvidia.com
+eventlog-aws.jftechws.com
 .i.imgur.com
 .discord.com
 .ibyteimg.com
