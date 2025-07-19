@@ -55,6 +55,7 @@ api.mapbox.com
 .amzn.to
 .wpc-download.gfe.nvidia.com
 eventlog-aws.jftechws.com
+cdn.taboola.com
 .i.imgur.com
 .discord.com
 .ibyteimg.com
