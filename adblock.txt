@@ -44,6 +44,10 @@
 ||binance.assets-withdrawal.com^  
 ||.tradedoubler.com^  
 ||.assets-withdrawal.com^  
+||s.t5.ro^$important
+||stun.ekiga.net^$important
+||stun.schlund.de^$important
+||.healthapplines.com^$important
 ||streamhub.ink^  
 ||surveysends.ru.com^  
 ||vecinadelanga.com^
