@@ -62,6 +62,7 @@ cdn.taboola.com
 .java.com
 .jetbrains.com
 .kubernetes.io
+.lry.ro
 .kwcdn.com
 .steam.tv
 xsteamcommunity.com
