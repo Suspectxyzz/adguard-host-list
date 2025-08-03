@@ -620,7 +620,7 @@ t.co
 t.imgur.com
 t.me
 tabler-icons.io
-tailscale.com
+.tailscale.com
 taobao.com
 teamviewer.com
 techcommunity.microsoft.com
@@ -689,7 +689,6 @@ weather-analytics-events.apple.com
 web.facebook.com
 webpifeed.blob.core.windows.net
 whatismyip.akamai.com
-whotracks.me
 widget.trustpilot.com
 wiki.alpinelinux.org
 windows.php.net
@@ -717,3 +716,4 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
