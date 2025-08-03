@@ -116,6 +116,8 @@
 ||adx.ads.oppomobile.com^  
 ||afs.googlesyndication.com^  
 ||analytics.google.com^  
+||.hero-wars.com^
+||.gamesclubpremium.com^
 ||api-app.wo-cloud.com^  
 ||api.bugsnag.com^  
 ||.rncdn7.com^
