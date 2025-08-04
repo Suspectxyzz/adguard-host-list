@@ -42,6 +42,7 @@ api.mapbox.com
 .emag.ro
 .googletagmanager.com
 .github.com
+.download.nvidia.com
 .github.dev
 .github.developerdan.com
 .github.io
@@ -716,4 +717,5 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
