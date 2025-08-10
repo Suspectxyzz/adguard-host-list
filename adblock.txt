@@ -78,6 +78,7 @@
 ||.qikdw.com^
 ||.ghtfew.com^
 ||.3pkf5m0gd.com^
+||api-adservices.apple.com^
 ||vypywufmbsp.com^  
 ||wasqimet.net^  
 ||ad.doubleclick.net^  
@@ -135,7 +136,8 @@
 ||data.ads.oppomobile.com^  
 ||digitalassetlinks.googleapis.com^  
 ||.jllpolkj.net^  
-||jllpolkj.net^ 
+||jllpolkj.net^
+||ads.youtube.com^
 ||.trafficjunky.com^  
 ||.rncdn7.com^  
 ||api.spotify.com^  
