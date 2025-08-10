@@ -53,6 +53,9 @@ api.mapbox.com
 .graphassets.com
 .heidisql.com
 .usercentrics.eu
+wsteamcommunity.com
+xsteamcommunity.com
+qsteamcommunity.com
 .amzn.to
 .wpc-download.gfe.nvidia.com
 eventlog-aws.jftechws.com
@@ -717,5 +720,6 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
