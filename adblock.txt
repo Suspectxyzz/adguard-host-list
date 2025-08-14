@@ -146,7 +146,8 @@
 ||firebaseremoteconfig.googleapis.com^  
 ||gemini.yahoo.com^  
 ||gos-api.gos-gsp.io^  
-||gos-gsp.io^  
+||gos-gsp.io^
+||.xsmzj.com^
 ||linkedin.com^  
 ||log.fc.yahoo.com^  
 ||metrika.yandex.ru^  
