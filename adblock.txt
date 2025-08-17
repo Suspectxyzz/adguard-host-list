@@ -60,6 +60,8 @@
 ||stun.schlund.de^
 ||.healthapplines.com^
 ||streamhub.ink^  
+||cityofsin3d.com^
+||pemsrv.com^
 ||surveysends.ru.com^  
 ||vecinadelanga.com^
 ||.vecinadelanga.com^
