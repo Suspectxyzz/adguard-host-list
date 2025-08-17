@@ -108,6 +108,7 @@ cdn.deepseek.com
 .relevant-digital.com
 .riotcdn.net
 .router.teamviewer.com
+.adguard.com
 .ruby-lang.org
 .rust-lang.org
 .s.imgur.com
@@ -720,6 +721,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
