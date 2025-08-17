@@ -21,12 +21,14 @@
 ||.qq-cdn.com^
 ||qq-cdn.com^
 ||ijeljournal.com^  
+||agentredgirl.com^
 ||.ijeljournal.com^  
 ||analytics-batch.blitz.gg^  
 ||app-measurement.com^  
 ||files.scamadviser.com^  
 ||intalnirierotice.net^  
 ||exct.net^  
+||magsrv.com^
 ||wbpoofgurde.com^  
 ||.paaeeets.net^
 ||paaeeets.net^
