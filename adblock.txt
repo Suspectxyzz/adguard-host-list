@@ -1,5 +1,6 @@
 ||updates.cdn-apple.com^  
-||bpapi.apple.com^  
+||bpapi.apple.com^ 
+||community.steam-api.com^
 ||afcdn.net^  
 ||brazzersnetwork.com^  
 ||downloadisnow.com^  
