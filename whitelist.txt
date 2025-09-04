@@ -39,6 +39,7 @@ api.mapbox.com
 .sendgrid.net
 .electronjs.org
 .squarespace-cdn.com
+.alpinelinux.org
 .emag.ro
 .googletagmanager.com
 .github.com
@@ -721,6 +722,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
