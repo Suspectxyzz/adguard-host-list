@@ -70,6 +70,7 @@ cdn.taboola.com
 .lry.ro
 .kwcdn.com
 .steam.tv
+csfloat.pics
 xsteamcommunity.com
 .lencr.org
 .geni.us
@@ -722,6 +723,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
