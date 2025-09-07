@@ -52,6 +52,11 @@
 ||playonlinegames.space^
 ||wetrackgames.com^
 ||obqj2.com^
+||boss-h5.jftechsoft.com^
+||new-shadow-server-eu.secu100.net^
+||boss-api.jftechsoft.com^
+||api.jftechws.com^
+||obs-xm-pub.obs.cn-south-1.myhuaweicloud.com
 ||sentry.io^  
 ||spicevids.com^  
 ||stemboastfulrattle.com^  
@@ -59,9 +64,14 @@
 ||kitio.com^  
 ||binance.assets-withdrawal.com^  
 ||tradedoubler.com^  
+||cdninstagram.com^
+||data.healthapplines.com^
 ||assets-withdrawal.com^  
 ||s.t5.ro^$important
 ||stun.ekiga.net^
+||cdn.dcloud.net.cn^
+||.diabetestrackerpro.com^
+||ads.pinterest.com^
 ||disqus.com^
 ||schlund.de^
 ||healthapplines.com^
