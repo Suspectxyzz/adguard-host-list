@@ -226,12 +226,14 @@ avaloniaui.net
 avatar-management--avatars.us-west-2.prod.public.atl-paas.net
 avatars*.githubusercontent.com
 avatars.akamai.steamstatic.com
+media.trafficjunky.net
 avatars.githubusercontent.com
 avatars.steamstatic.com
 .githubusercontent.com
 azuresearch-usnc.nuget.org
 b.cdnst.net
 bag-cdn.itunes-apple.com.akadns.net
+.phncdn.com
 bag.itunes.apple.com
 bans.lol/cringe
 bit.ly
@@ -255,6 +257,7 @@ cdn.eu.auth0.com
 cdn.fbsbx.com
 cdn.graph.office.net
 cdn.jsdelivr.net
+.mythinkcar.com
 cdn.openai.com
 cdn.rawgit.com
 cdn.scarabresearch.com
@@ -286,10 +289,16 @@ configuration.apple.com
 connect.facebook.net
 console.python.org
 count.shein.com
+www.facebook.com
 cpwebassets.codepen.io
+wsteamcommunity.com
+xsteamcommunity.com
+qsteamcommunity.com
+static.cdninstagram.com
 .anydesk.com
 cs10.wpc.v0cdn.net
 cs22.wpc.v0cdn.net
+wpc-download.gfe.nvidia.com
 csgocasetracker.com
 css-tricks.com
 cstat.cdn-apple.com
@@ -723,6 +732,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
