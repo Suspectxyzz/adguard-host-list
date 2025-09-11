@@ -101,7 +101,8 @@
 ||api-adservices.apple.com^
 ||vypywufmbsp.com^  
 ||wasqimet.net^  
-||ad.doubleclick.net^  
+||ad.doubleclick.net^ 
+||doubleclick.net^
 ||ads-api.tiktok.com^  
 ||ads-api.twitter.com^  
 ||.ljzrg.com^
