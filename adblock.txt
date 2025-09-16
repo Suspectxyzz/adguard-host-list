@@ -7,7 +7,13 @@
 ||ent-cdn.com^  
 ||ads.pinterest.com^  
 ||flashtalking.com^  
-||googleads.g.doubleclick.net^  
+||googleads.g.doubleclick.net^
+||bingads.microsoft.com^
+||ads-api.tiktok.com^
+||analytics.tiktok.com^
+||ads.tiktok.com^
+||ads-sg.tiktok.com^
+||ads.snapchat.com^
 ||googleadservices.com^  
 ||gvt.com^  
 ||gvt2.com^  
