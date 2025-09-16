@@ -28,6 +28,9 @@ cloudflareinsights.com
 .docker.com
 .dockerstatus.com
 discord.com
+immich.store
+.gravatar.com
+region1.analytics.google.com
 .dot.net
 file.thinkcar.com
 mega.nz
@@ -732,6 +735,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
