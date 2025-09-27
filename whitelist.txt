@@ -50,6 +50,8 @@ api.mapbox.com
 .github.dev
 .github.developerdan.com
 .github.io
+.yuntrack.com
+.17track.net
 .godaddy.com
 .yubico.com
 .googleapis.com
@@ -735,3 +737,4 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
