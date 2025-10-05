@@ -30,6 +30,7 @@
 /^(.+[_.-])?affiliate[_.-]/
 
 # Commonly used advertising platforms
+/^diproton-ads-[^.]+\.hulu\.com\.akadns\.net$/
 /^ads[_.-](yahoo|google|amazon|roku|facebook|youtube|pornhub|bing)[_.-]/
 /^ad[sxv]?[_.-](click|track|serve|banner)[_.-]/
 /^doubleclick[_.-]/
