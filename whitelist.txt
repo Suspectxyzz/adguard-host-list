@@ -26,6 +26,7 @@
 cloudflareinsights.com
 .dart.dev
 .docker.com
+.jsdelivr.net
 .dockerstatus.com
 discord.com
 immich.store
@@ -737,4 +738,5 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
