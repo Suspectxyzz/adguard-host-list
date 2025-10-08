@@ -34,6 +34,7 @@ immich.store
 region1.analytics.google.com
 .dot.net
 file.thinkcar.com
+.scamadviser.com
 mega.nz
 mediafire.com
 api.mapbox.com
@@ -739,6 +740,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
