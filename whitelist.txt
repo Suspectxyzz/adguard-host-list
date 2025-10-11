@@ -31,6 +31,7 @@ cloudflareinsights.com
 discord.com
 immich.store
 .tailscale.com
+.ts.net
 .gravatar.com
 region1.analytics.google.com
 .dot.net
@@ -742,6 +743,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
