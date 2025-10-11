@@ -8,6 +8,7 @@
 .googlesyndication.com
 .amd.com
 .akadns.net
+.steamstatic.com
 .asus.com
 .ampproject.org
 .apple.com
@@ -743,6 +744,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
