@@ -33,6 +33,7 @@ discord.com
 immich.store
 .tailscale.com
 .ts.net
+.truenas.com
 .gravatar.com
 region1.analytics.google.com
 .dot.net
