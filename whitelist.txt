@@ -1,4 +1,5 @@
 .30secondsofcode.org
+.asusrouter.com
 .aaplimg.com
 .akamaihd.net
 .alibaba.com
@@ -747,6 +748,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
