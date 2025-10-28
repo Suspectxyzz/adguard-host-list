@@ -15,6 +15,7 @@
 .apple.com
 .asusrouter.com
 .battle.net
+.steamstatic.com
 .bitdefender.com
 .braintreegateway.com
 .cdnst.net
@@ -748,6 +749,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
