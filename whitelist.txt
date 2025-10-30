@@ -21,6 +21,7 @@
 .cdnst.net
 .checkout.com
 .clearlinux.org
+.crowdsec.net
 .cloudflare.com
 .challengermode.com
 .cloudfront.net
@@ -749,6 +750,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
