@@ -2,6 +2,7 @@
 .asusrouter.com
 .aaplimg.com
 .akamaihd.net
+.cloud.netflix.com
 .alibaba.com
 .alicdn.com
 .aliexpress.com
@@ -750,6 +751,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
