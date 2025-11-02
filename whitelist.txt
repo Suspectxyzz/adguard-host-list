@@ -215,6 +215,7 @@ mediacdn.allstar.gg
 prodregistryv2.org
 app-global-2.lilithgame.com
 app-site-association.cdn-apple.com
+ipv4.icanhazip.com
 app.docker.com
 app.lilithgame.com
 apps.mzstatic.com
@@ -751,6 +752,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
