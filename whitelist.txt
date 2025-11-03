@@ -57,6 +57,8 @@ api.mapbox.com
 .emag.ro
 .googletagmanager.com
 .github.com
+ifconfig.io/ip
+checkip.amazonaws.com
 .download.nvidia.com
 .geni.us
 geni.us
@@ -752,6 +754,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
