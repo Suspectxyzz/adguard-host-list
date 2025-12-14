@@ -52,7 +52,7 @@
 ||bgsdqz.blogspot.in^  
 ||xvisionkaraj.com^  
 ||mmcdn.com^
-||.shipstation.com^
+||shipstation.com^
 ||mxescort.com^  
 ||primis.tech^  
 ||semqraso.net^  
@@ -71,7 +71,7 @@
 ||new-shadow-server-eu.secu100.net^
 ||boss-api.jftechsoft.com^
 ||api.jftechws.com^
-||obs-xm-pub.obs.cn-south-1.myhuaweicloud.com
+||myhuaweicloud.com^
 ||sentry.io^  
 ||spicevids.com^  
 ||stemboastfulrattle.com^  
@@ -85,7 +85,7 @@
 ||s.t5.ro^
 ||stun.ekiga.net^
 ||cdn.dcloud.net.cn^
-||.diabetestrackerpro.com^
+||diabetestrackerpro.com^
 ||ads.pinterest.com^
 ||disqus.com^
 ||schlund.de^
@@ -108,14 +108,14 @@
 ||mtasv.net^  
 ||bithunds.xyz^  
 ||paeastei.net^
-||.sendgrid.net^
+||sendgrid.net^
 ||uadthenborea.info^
 ||steamcommunity.co^
 ||qikdw.com^
 ||ghtfew.com^
 ||3pkf5m0gd.com^
 ||api-adservices.apple.com^
-||.11slotsdj91.com^
+||11slotsdj91.com^
 ||t38qr.com^
 ||vypywufmbsp.com^  
 ||wasqimet.net^  
