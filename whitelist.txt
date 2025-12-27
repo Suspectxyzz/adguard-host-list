@@ -78,6 +78,8 @@ geni.us
 wsteamcommunity.com
 xsteamcommunity.com
 qsteamcommunity.com
+xsteamcommunity.com
+csteamcommunity.com
 .amzn.to
 .wpc-download.gfe.nvidia.com
 eventlog-aws.jftechws.com
@@ -92,7 +94,11 @@ cdn.taboola.com
 .kwcdn.com
 .steam.tv
 csfloat.pics
-xsteamcommunity.com
+secure.netflix.com
+api-global.netflix.com
+.cdninstagram.com
+downloadapp.mythinkcar.com^$important
+fuckyou.gay
 .lencr.org
 .geni.us
 .squarespace.com
@@ -754,6 +760,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.com
 ytstatic.l.google.com
+
 
 
 
