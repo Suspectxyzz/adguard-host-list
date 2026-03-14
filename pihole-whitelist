@@ -137,6 +137,9 @@ cloud.netflix.com
 cloudflare.com
 cloudflareinsights.com
 cloudfront.net
+openai.com
+sora.com
+huggingface.co
 code.visualstudio.com
 codecademy.com
 codeload.github.com
@@ -156,9 +159,17 @@ csfloat.pics
 csgocasetracker.com
 css-tricks.com
 cstat.cdn-apple.com
+shopifysvc.com
+claude.ai
+shopifysvc.com
+mullvad.net
 ctldl.windowsupdate.com
 curben.gitlab.io
+tiktokcdn-eu.com
+tiktok.com
+steamstatic.com
 cvp.twitch.tv
+chatgpt.com
 dart.dev
 datarouter.ol.epicgames.com
 dbeaver.io
@@ -489,6 +500,8 @@ registry-1.docker.io
 registry.npmjs.org
 relevant-digital.com
 remoteconfig.edenred.io
+phncdn.com
+cdn1d-static-shared.phncdn.com
 repository-images.githubusercontent.com
 resources.jetbrains.com
 revenuecat.com
