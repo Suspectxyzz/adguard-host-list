@@ -1,8 +1,17 @@
 # Pi-hole Blocklist
 # Format: 0.0.0.0 domain.com
 # Compatible with Pi-hole v5+ (Adlists / Gravity)
-# Generated: 2026-03-14
+# Generated: 2026-03-16
 
+
+
+
+0.0.0.0 boss-api.jftechsoft.com
+0.0.0.0 boss-h5.jftechsoft.com
+0.0.0.0 sdk.atomex.net
+0.0.0.0 ads.adx.com
+0.0.0.0 vungle.com
+0.0.0.0 app-measurement.com
 0.0.0.0 updates.cdn-apple.com
 0.0.0.0 bpapi.apple.com
 0.0.0.0 community.steam-api.com
