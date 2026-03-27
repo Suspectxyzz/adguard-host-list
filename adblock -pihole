@@ -1,7 +1,7 @@
 # Pi-hole Blocklist
 # Format: 0.0.0.0 domain.com
 # Compatible with Pi-hole v5+ (Adlists / Gravity)
-# Generated: 2026-03-16
+# Generated: 2026-03-27
 
 
 
@@ -36,6 +36,7 @@
 0.0.0.0 gvt3.com
 0.0.0.0 eye4.cn
 0.0.0.0 eye.cn
+0.0.0.0 capcutapi.com
 0.0.0.0 boss-h5.jftechsoft.com
 0.0.0.0 cdn.dcloud.net.cn
 0.0.0.0 hcdnw120.vip.global.ipv6.cdnhwctnm107.com
