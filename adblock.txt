@@ -32,6 +32,7 @@
 ||cdn.doubleverify.com^
 ||adsafeprotected.com^
 ||hwcdn.net^
+||.ccrig.com^
 ||qq-cdn.com^
 ||criteo.com^
 ||gave.ro^
